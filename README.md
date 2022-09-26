@@ -10,7 +10,7 @@ I opened it but I found that the chip identification had been filed down.
 
 on the back there is no useful identification either
 
-[<img src="back.jpg" width="100" />](./back.jpg)
+[<img src="rear.jpg" width="100" />](./rear.jpg)
 
 The device identifies itself as "Beauty-R1" and the seller says the chip is from Yizhao.
 
