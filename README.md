@@ -7,7 +7,7 @@ I opened it but I found that the chip identification had been filed down.
 
 [<img src="front.jpg" width="100" />](./front.jpg)
 
-The oscillator is 24MHz.
+The oscillator is 24MHz and the silkscreen says "SD-F1-V1.1 2021.7.5."
 
 
 on the back there is no useful identification either
