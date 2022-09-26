@@ -7,6 +7,8 @@ I opened it but I found that the chip identification had been filed down.
 
 [<img src="front.jpg" width="100" />](./front.jpg)
 
+The oscillator is 24MHz.
+
 
 on the back there is no useful identification either
 
