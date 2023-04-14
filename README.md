@@ -18,6 +18,12 @@ The device identifies itself as "Beauty-R1" and the seller says the chip is from
 
 I couldn't find anything searching for the manufacturer, the bluetooth id  or the markings on the pcb.
 
+# interceptor
+
+Eventually I [identified the chip](https://github.com/olivluca/bluetooth-tiktok-remote/issues/1#issuecomment-1258535251) but I couldn't get hold of a development kit, so [I wrote a program](https://github.com/olivluca/beauty-r1-android-interceptor)
+that intercepts the mouse movements and transforms them to keypresses.
+
+
 
 
 
